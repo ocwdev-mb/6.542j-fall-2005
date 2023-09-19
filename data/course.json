@@ -1,0 +1,58 @@
+{
+  "term": "Fall",
+  "year": "2005",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Health and Medicine",
+      "Anatomy and Physiology"
+    ],
+    [
+      "Health and Medicine",
+      "Speech Pathology"
+    ],
+    [
+      "Humanities",
+      "Linguistics"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Signal Processing"
+    ]
+  ],
+  "legacy_uid": "79024e3c-3a6e-b823-eb07-bf480bfa9534",
+  "instructors": {
+    "content": [
+      "d1a6fb36-677e-8583-59fd-1b7e625411fe",
+      "d92b56a3-9ae3-8851-4cf7-ecf1d09c1a1e",
+      "a42dfeb7-6e09-fe0b-9cc0-b232df89350d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "a9347f1c-94d5-b94d-ef27-766901adba59",
+    "website": "6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005"
+  },
+  "course_title": "Laboratory on the Physiology, Acoustics, and Perception of Speech",
+  "course_description": "The course focuses on experimental investigations of speech processes. Topics include: measurement of articulatory movements, measurements of pressures and airflows in speech production, computer-aided waveform analysis and spectral analysis of speech, synthesis of speech, perception and discrimination of speechlike sounds, speech prosody, models for speech recognition, speech disorders, and other topics.\n\n*   Two 1-hour lectures per week\n*   Two labs per week\n*   Brief lab reports\n*   Term project, with short term paper\n*   No exams\n",
+  "department_numbers": [
+    "6",
+    "24",
+    "HST"
+  ],
+  "extra_course_numbers": "24.966J,HST.712J",
+  "primary_course_number": "6.542J",
+  "course_image_thumbnail": {
+    "content": "c11933e0-255f-595f-17c0-4cc44a0b15e5",
+    "website": "6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005"
+  },
+  "learning_resource_types": [
+    "Projects"
+  ],
+  "site_uid": "a5c469fe-f9f5-42e5-8e56-29c9fa3f3af9",
+  "site_short_id": "6.542j-fall-2005",
+  "title": "Course Metadata"
+}
